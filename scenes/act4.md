@@ -381,7 +381,7 @@ music('dontfight',{fade:5, volume:0.6});
 bb({eyes:"annoyed_d"});
 ```
 
-b: 난 나쁜 늑대가 아니지만, 그렇지만 경비 늑대도 아니야.
+b: 난 나쁜 늑대가 아니야, 그렇지만 경비 늑대도 아니야.
 
 `bb({eyes:"sad_d"})`
 
@@ -683,7 +683,7 @@ b: 게다가, *너무* 무덤덤해져서 싸이코패스가 되진 않을까?
 
 `bb({ mouth:"scream", eyes:"scream", body:"two_up" })`
 
-b: 이러다가 살인 포르노 스너프 필름 보면서 자위할지도 몰라!
+b: 이러다가 살인 스너프 필름  보면서 ^자위^할지도 몰라!
 
 `hong({ eyes:"annoyed" })`
 
