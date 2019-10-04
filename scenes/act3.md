@@ -714,7 +714,7 @@ b: 네가 나한테 입마개를 씌우려 한 게 당연했을 정도야.
 
 `bb({eyes:"sorry_down"});`
 
-b: I'm sorry.
+b: 미안해.
 
 (#act3_good_4)
 
