@@ -381,7 +381,7 @@ music('dontfight',{fade:5, volume:0.6});
 bb({eyes:"annoyed_d"});
 ```
 
-b: 난 나쁜 늑대가 아니야, 그렇지만 경비 늑대도 아니야.
+b: 난 나쁜 늑대가 아니야, 그렇지만 경비 늑대도 아.
 
 `bb({eyes:"sad_d"})`
 
